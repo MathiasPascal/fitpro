@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "fitpro-3a587",
+                    "appId": "1:43287864349:android:480bb3c78ea1a08ea0d2f4",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "fitpro-3a587",
+                    "configurations": {
+                        "android": "1:43287864349:android:480bb3c78ea1a08ea0d2f4"
+                    }
+                }
+            }
+        }
+    }
+}

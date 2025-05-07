@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43287864349",
+    "project_id": "fitpro-3a587",
+    "storage_bucket": "fitpro-3a587.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43287864349:android:480bb3c78ea1a08ea0d2f4",
+        "android_client_info": {
+          "package_name": "com.example.fitpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEuFuI3qiLonk7CFHurdN_5N1tKoJj74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
